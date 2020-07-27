@@ -1,0 +1,1 @@
+download file -> ssd512_voc_weights_fixed.hdf5 from https://github.com/mvoelk/ssd_detectors
